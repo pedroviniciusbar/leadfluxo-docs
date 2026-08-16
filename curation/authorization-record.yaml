@@ -1,0 +1,10 @@
+status: pending-verification
+document_type: ""
+document_date: ""
+responsible: ""
+authorized_scope: "textos autorizados para rebrand"
+private_evidence_location: ""
+review_required_when:
+  - termos mudarem
+  - origem mudar
+  - tipo de conteúdo mudar
